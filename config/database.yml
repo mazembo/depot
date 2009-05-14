@@ -37,9 +37,7 @@ test:
 
 production:
   adapter: mysql
-  encoding: utf8
-  database: depot_production
-  pool: 5
-  username: root
+  database: dielais
+  username: dielais
   password: nditukulu
   host: localhost
